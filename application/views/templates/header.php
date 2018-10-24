@@ -8,7 +8,7 @@
     <title>cseven admin</title>
     <link href="<?php echo base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
     <link href="<?php echo base_url(); ?>assets/css/style.css" rel="stylesheet">
-    <link href="<?php echo base_url(); ?>assets/css/colors/default.css" id="theme" rel="stylesheet">
+    <link href="<?php echo base_url(); ?>assets/css/colors/blue.css" id="theme" rel="stylesheet">
     
 </head>
 
